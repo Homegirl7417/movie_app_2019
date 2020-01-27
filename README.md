@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-하던 곳 : 강의 #6 Routing Bonus 의 6.1부터 들으면 됨.
-문제 : gh-pages 가 작동하지 않음. 고치기.
-
 Memo
 
 1. props
