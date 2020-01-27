@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 하던 곳 : 강의 #6 Routing Bonus 의 6.1부터 들으면 됨.
 문제 : gh-pages 가 작동하지 않음. 고치기.
 
@@ -83,3 +84,7 @@ componentDidMount() {
             history.push('/');
         }
 }
+=======
+# movie_app_2019
+rating이 높은 영화들을 보여주는 웹사이트
+>>>>>>> a63cff080b54ff53ebfa51708519037876aff97f
