@@ -59,7 +59,6 @@ step2. package.json에 다음을 추가.
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
-    (안되면, "deploy": "gh-pages -b master -d build"로 바꿀 것.)
     "predeploy": "npm run build"
 }
 
