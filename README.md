@@ -59,10 +59,11 @@ step2. package.json에 다음을 추가.
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
+    (안되면, "deploy": "gh-pages -b master -d build"로 바꿀 것.)
     "predeploy": "npm run build"
 }
 
-3) npm run deploy 실행
+3) npm run deploy 실행 (또는 yarn run deploy)
 
 ps. github page에서 browerRouter는 정확히 설정하기 어렵다. github page를 쓸거라면 hashRouter를 쓰는 편이 좋다.
 
